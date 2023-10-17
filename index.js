@@ -18,7 +18,7 @@ fetch(req)
                 >
                 ${post.name}
                 </div>
-                <div class="h5 mb-0 font-weight-bold text-gray-800">
+                <div class="h5 mb-0 font-weight-gray-800">
                 ${post.id}
                 </div>
               </div>
